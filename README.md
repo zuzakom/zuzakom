@@ -3,7 +3,7 @@
 I love analysing data and overthinking 🧮
 
 🚀 Recently graduated from Le Wagon Data Analytics bootcamp
-  - 🎰 My final graduate project [Data Analytics dashboard for hospitality establishments](https://app.livestorm.co/le-wagon-online/le-wagon-online-demo-day-data-analytics-1504/live?s=0c6aa59d-196d-42fe-9a7d-ae72c77bd3bd#/chat)
+  - 🎰 My final graduate project [Data Analytics dashboard for hospitality establishments](https://www.youtube.com/watch?v=LviMlbSM-Bc)
 
 
 - 🌱 I’m currently learning data viz tool Tableau and delving into the A/B testing
